@@ -2,9 +2,9 @@
 
 # Khang Duong 
 
-![This is me!](https://github.com/khangduong/ITMO-444/blob/master/Week-01/images/khang.jpg)
+![This is me!](https://github.com/khangduong/ITMT-430/blob/master/images/khang.jpg)
 
-![Travel Enthusiast](https://github.com/khangduong/ITMO-444/blob/master/Week-01/images/travel.JPG)
+![Travel Enthusiast](https://github.com/khangduong/ITMT-430/blob/master/images/travel.jpg)
 
 # Where are you from?
 Prague, Czech Republic (...Europe)
@@ -16,5 +16,5 @@ Specialization in Web Development and Software Development. Aspiring to be Full 
 Fluent in 3 languages. 
 
 # Git Tutorial
-![Git Progress Badge](https://github.com/khangduong/ITMO-444/blob/master/Week-01/images/git.JPG)
+![Git Progress Badge](https://github.com/khangduong/ITMT-430/blob/master/images/git.JPG)
 
